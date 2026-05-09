@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/icons/white/Svg/logo-mark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile/icons/black/Svg/logo-mark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/white/Svg/logo-mark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./icons/black/Svg/logo-mark.svg">
     <img alt="Gaptical Logo" src="profile/icons/white/Svg/logo-mark.svg" width="120">
   </picture>
 </p>
